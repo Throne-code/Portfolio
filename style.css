@@ -1,0 +1,21 @@
+body {
+    background: url("2400-dark-medieval-battle-scene-with-silhouetted-cavalry-and-infantry-warriors-fighting-in-front-of-a-foggy-castle.jpg");
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.menu {
+    width: auto !important;
+    padding: 8px 50px;
+    border-radius: 10px;
+    background-color: rgb(122, 135, 51);
+}
+
+.next-content {
+    display: none;
+}
+
+.next-content.show {
+    display: block;
+}
